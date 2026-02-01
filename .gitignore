@@ -2,5 +2,4 @@
 node_modules/
 pakage-lock.json
 package.json
-src/
 testRedis.js
